@@ -49,4 +49,4 @@ console.log(fileManager.existsSync('./existsSync.js')) // { code: 200, data: { t
 
 ## License
 
-[MIT](https://github.com/epoberezkin/ajv-errors/blob/master/LICENSE)
+The MIT License. Full License is [here](https://github.com/mj132/file-manage-js/blob/main/LICENSE)
