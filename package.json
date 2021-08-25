@@ -1,9 +1,18 @@
 {
   "name": "file-manage-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "mj",
   "description": "file manage",
   "main": "index.js",
+  "keywords": [
+    "promise fs",
+    "create directory",
+    "remove file",
+    "rename file",
+    "remove directory",
+    "create directory",
+    "rename directory"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
