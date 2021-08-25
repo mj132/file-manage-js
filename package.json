@@ -1,0 +1,22 @@
+{
+  "name": "file-manage-js",
+  "version": "1.0.0",
+  "author": "mj",
+  "description": "file manage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mj132/file-manage-js.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mj132/file-manage-js/issues"
+  },
+  "engines": {
+    "node": ">=8.1.4"
+  },
+  "homepage": "https://github.com/mj132/file-manage-js#readme"
+}
